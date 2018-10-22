@@ -8,7 +8,6 @@ namespace ClsWrkAnimal
 {
     class Dog : Animal ,  ICanine
     {
-       
         public override string Eat()
         {
             return "Dog also eat flesh food";
